@@ -7,7 +7,10 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "post-update": "echo \"codesandbox preview only, need an update\" && pnpm update --latest"
+    "post-update": "echo \"codesandbox preview only, need an update\" && pnpm update --latest",
+    "prisma-studio": "npx prisma studio",
+    "db-push": "npx prisma db push",
+    "seed": "ts-node prisma/seed.ts"
   },
   "dependencies": {
     "@emotion/cache": "latest",
@@ -16,7 +19,6 @@
     "@mui/icons-material": "latest",
     "@mui/material": "latest",
     "@mui/material-nextjs": "latest",
-    "@prisma/client": "^6.0.0",
     "mysql2": "^3.11.4",
     "next": "latest",
     "react": "latest",

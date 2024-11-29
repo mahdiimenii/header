@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped using [`create-nex
 
 ## Dependencies doc's
 Prisma : https://www.prisma.io/docs/getting-started/quickstart-sqlite
-
+         https://vercel.com/guides/nextjs-prisma-postgres
 ## How to use
 
 Download the example [or clone the repo](https://github.com/mui/material-ui):
