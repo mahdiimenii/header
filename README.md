@@ -2,6 +2,9 @@
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped using [`create-next-app`](https://github.com/vercel/next.js/tree/HEAD/packages/create-next-app) with Material UI installed.
 
+## Dependencies doc's
+Prisma : https://www.prisma.io/docs/getting-started/quickstart-sqlite
+
 ## How to use
 
 Download the example [or clone the repo](https://github.com/mui/material-ui):
